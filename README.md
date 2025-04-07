@@ -3,7 +3,7 @@
 
 🚀 **Empowering education with data-driven insights to enhance student success.**
 
-<img width="1066" alt="image" src="https://github.com/SanketKumarP/Student-Success-Prediction/blob/7cabe94b874dbbb5dc3f6803cc9c48c0391f9396/Poster_Presentation.png">
+<img width="1066" alt="image" src="https://github.com/SanketKumarP/Student-Success-Prediction/blob/2c77e409115572a8003999ea6b921a92c354dac1/Poster_Presentation.png">
 
 ## Overview
 This project focuses on predicting early student dropouts and at-risk students using advanced machine learning models on the Open University Learning Analytics Dataset (OULAD). By leveraging time series data and meta modeling approaches, our goal is to proactively identify students in need of support to improve educational outcomes.
